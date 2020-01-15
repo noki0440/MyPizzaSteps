@@ -1,10 +1,5 @@
 1. Decide what type of pizza we want
 2. new Button
 3. new Color
-<<<<<<< HEAD
 4. Take One branch
 5. Take Two branch
-=======
-4. Take One
-5. Take Two
->>>>>>> takeTwo
