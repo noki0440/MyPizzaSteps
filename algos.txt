@@ -1,2 +1,4 @@
-1.
-2.
+1. Decide what tye of pizza we want
+2. new Button
+3. new Color
+4. 
